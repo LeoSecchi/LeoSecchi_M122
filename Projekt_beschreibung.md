@@ -9,6 +9,8 @@
 #### 1. Jeden Morgen 1 Mail
 #### Herausfinden ob er steigt oder nicht <br> <br>
 
+## Skitzze
+
 ![](/Screenshot%202022-07-04%20133816.png) <br> <br>
 
 ## Muss
