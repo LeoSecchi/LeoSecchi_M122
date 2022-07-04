@@ -15,4 +15,11 @@
 
 #### 1. Er muss Daten von einer Webseite bekommen
 #### 2. Er nuss mir eine mail von dem Kurs schreiben
-#### 3. Er muss es mir jeden Tag eine mail Senden
+#### 3. Er muss es mir jeden Tag eine mail Senden <br> <br>
+
+
+## Kann
+
+#### Um bestimmte Uhzeiten wird es gesendet.
+#### Es zeigt auch noch andere Währungen an
+#### Andere Währungen im Sinne von (Fr, Eur,...)
