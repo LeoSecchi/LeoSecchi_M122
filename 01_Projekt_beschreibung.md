@@ -11,7 +11,7 @@
 
 ## Skitzze
 
-![](/Screenshot%202022-07-04%20133816.png) <br> <br>
+![](/Bilder/MiroPrtSc.png) <br> <br>
 
 ## Muss
 
