@@ -1,5 +1,5 @@
 ## Beschreibung
-#### Jeden Morgen um 8:00 Uhr erhalte ich eine Mail, die mir den Etherium Kurs zeigt. 
+#### Jeden Morgen um 12:00 Uhr Mittags, erhalte ich eine Mail, die mir den Etherium Kurs zeigt. 
 <br><br>
 
 ## Setup und Automation Der Mailserver
